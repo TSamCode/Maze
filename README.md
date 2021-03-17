@@ -1,5 +1,5 @@
 # Maze
-A simple SARSA &amp; Q-Learning Reinforcement Learning agent
+A simple SARSA &amp; Q-Learning Reinforcement Learning agent inspired by Example 6.6 in "Reinforcement Learning: An Introduction" (Sutton & Barto 2017)
 
 This reinforcement learning agent is based on using either the SARSA or Q-Learning algorithms:
 - SARSA: [https://en.wikipedia.org/wiki/State%E2%80%93action%E2%80%93reward%E2%80%93state%E2%80%93action](url)
