@@ -10,3 +10,5 @@ The aim of the agent is to get from its start position in the top-left corner of
 Two version of this maze have been created:
 - The 1st version is the simpler. Here the agent is simply looking to reach the end of the maze without falling off the cliff
 - The 2nd iteration of the maze is extended to allow for the agent to try and collect a coin for which it earns a reward. The coin is denoted by a green square
+
+Extensions still to be considered will be to expand the maze to include multiple coins, traps to avoid, and to implement an adaptive epsilon-greedy search method that reduces the levels of exploration over time.
